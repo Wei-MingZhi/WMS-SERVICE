@@ -1,0 +1,6 @@
+# Project exclude paths
+/WMS/wms-common/target/
+/WMS/wms-dao/target/
+/WMS/wms-entity/target/
+/WMS/wms-service/target/
+/WMS/wms-web/target/
